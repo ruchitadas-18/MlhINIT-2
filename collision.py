@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as pt
 import math as m
 
+
 #for mass 1 
 m1= int(input(" Enter mass of first partile: "))
 u1= int(input (" Enter the intial velocity of the partile: "))
